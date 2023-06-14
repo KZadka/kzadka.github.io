@@ -1,31 +1,17 @@
-## Portfolio
+## My Data Science Projects 
 
 ---
 
-### Category Name 1 
+### Scrapping YouTube API to get deatils about desired channels and videos 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I made this little project to play around with YouTube API. I manualy provide the list of channels and do some analysis on them. Some things can be automated further.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ranking.png?raw=true" />
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on GitHub](https://github.com/KZadka/YouTubeAnalizer)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
