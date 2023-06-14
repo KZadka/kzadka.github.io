@@ -10,6 +10,8 @@ I made this little project to play around with YouTube API. I manualy provide th
 
 <img src="images/top10.png?raw=true" />
 
+<img src="images/videos_per_month.png?raw=true" />
+
 [View code on GitHub](https://github.com/KZadka/YouTubeAnalizer)
 
 ---
