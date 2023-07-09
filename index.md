@@ -19,10 +19,12 @@ I made this little project to play around with YouTube API. I manualy provide th
 ### Jigsaw puzzles difficulty by age category
 
 I'm building four models for this task, two for classification problem and two for regression.
-I'm using my custom models and the pre-trained Resnet50.
+I'm using my custom models and the pre-trained Resnet50 that I'm fine tuning on my data.
 _Work in progress_
 
+<img src="images/custom_class_model.png?raw=true" />
 
+<img src="images/resnet_reg_model.png?raw=true" />
 
 [View code on GitHub](https://github.com/KZadka/Jigsaw-Puzzle-Difficulty)
 
